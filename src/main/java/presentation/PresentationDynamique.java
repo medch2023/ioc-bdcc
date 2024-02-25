@@ -7,7 +7,9 @@ import java.io.File;
 import java.lang.reflect.Method;
 import java.util.Scanner;
 
-public class PresentationDynamique {
+public class PresentationDynamique{
+
+
     public static void main(String[] args) throws Exception {
 
         Scanner scanner= new Scanner(new File("config.txt"));
